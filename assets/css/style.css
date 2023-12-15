@@ -101,8 +101,8 @@ main {
     background-color: #2589bd;
 }
 
-/* Benefit-lead, benefit-brand, benefit-cost classes */
-.benefit-lead, .benefit-brand, .benefit-cost {
+/* Benefit class */
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
